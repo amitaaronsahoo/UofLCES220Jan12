@@ -1,4 +1,5 @@
 # UofLCES220Jan12 Repo  
 This is just a sample repo for demo purposes
 ## Subtitle
-Blah Blah Blah
+
+I think this is a much much much better message.
